@@ -70,7 +70,7 @@ Rectangle {
 
     MediaPlayer {
         id: videoPlayer
-        source: "file:///usr/share/sddm/themes/fallout3/fallout3titlescreen.mp4"
+        source: "file:///usr/share/sddm/themes/sddm-fallout-theme/fallout.mp4"
         autoPlay: true
         muted: true
         loops: -1
